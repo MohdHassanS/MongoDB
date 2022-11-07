@@ -1,6 +1,6 @@
 # Student Database (MongoDB)  
-Here is the student dataset in the json format.  
-[Link >>](https://drive.google.com/file/d/1mnKvdAg_tVYqNo3lu9Pb9o0h-YuC4fCN/view?usp=sharing)
+Check out this for [PyMongo tutorial](https://pymongo.readthedocs.io/en/stable/tutorial.html)  
+Here i have attached the student dataset in the json format.  
 ## Perform the following operation:  
 - First create a database and then load the student.json dataset.
 - Insert the students record into the collection.
